@@ -83,7 +83,8 @@ Compare two measurement sessions side-by-side:
 
 | Mode | Features |
 | :--- | :--- |
-| **Human Pose Mode** | MediaPipe 33-point pose landmark extraction for Height, Shoulder Width, Arm Span, Arm Lengths, Leg Inseams, Torso Length, plus custom point-to-point anatomical metric selector. |
+| **Hand Gesture Mode (Primary)** | **Direct Hand Gesture Measurement Engine**: Real-time 21-node hand skeleton tracking supporting **Pinch Caliper** (Thumb-to-Index span gauge), **Two-Hand Air Tape Measure** (Left-to-Right Index span), and **Gesture Air-Tap** (Pinch in air to drop start/end anchor points on any object). Includes gesture controls (Peace sign ✌️ to save, Fist ✊ to reset). |
+| **Human Pose Mode** | MediaPipe 33-point pose landmark extraction for Height, Shoulder Width, Arm Span, Arm Lengths, Inseams, Torso Length, plus custom point-to-point anatomical metric selector. |
 | **Object Scale Mode** | Segmentation of target objects beside reference markers (A4/Credit Card), computing Width, Height, Perimeter, Surface Area ($\text{cm}^2$), and pinhole camera distance. |
 | **Manual 2-Point Mode** | Click-to-calibrate reference line + click-to-measure target distance with live uncertainty readout. |
 | **Photo Upload Mode** | Upload JPG, PNG, or WebP images, auto-detect biometric landmarks, and drag individual landmark handles for manual micro-adjustment. |
