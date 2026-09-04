@@ -241,3 +241,8 @@ MIT License. Built with precision for the **Vantage AI Measurement Platform**.
 ## Development Update
 
 Vantage is actively being improved with new measurement and computer-vision capabilities.
+
+## How It Works
+
+Vision Measure uses computer vision to analyze the camera feed
+and estimate measurements from detected objects.
