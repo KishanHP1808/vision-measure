@@ -237,3 +237,6 @@ Visit **`http://localhost:5173`** in your browser.
 
 ## License
 MIT License. Built with precision for the **Vantage AI Measurement Platform**.
+## 🔄 Latest Update
+
+Project actively maintained and continuously improved.
